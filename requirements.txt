@@ -2,7 +2,7 @@ selenium
 beautifulsoup4
 pandas
 scikit-learn
-tensorflow
+tensorflow-cpu
 streamlit
 streamlit-shadcn-ui
 webdriver_manager
